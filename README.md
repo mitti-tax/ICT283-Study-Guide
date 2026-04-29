@@ -1,5 +1,5 @@
 # ICT283 Study Guide
-> **Murdoch University — Data Structures (ICT283)**  
+> **Murdoch University - Data Structures (ICT283)**  
 > Community study guide covering C++, Object-Oriented Design, Data Structures, Algorithms, and Design Patterns.
 
 ---
@@ -8,7 +8,7 @@
 
 This repository is a public study resource for students enrolled in **ICT283 - Data Structures**
 
-It is designed to complement your lecture and lab work — not replace it. The unit emphasises **handwritten answers and hand-coded C++**, so use these resources to understand concepts deeply, not to copy solutions.
+It is designed to complement your lecture and lab work - not replace it. The unit emphasises **handwritten answers and hand-coded C++**, so use these resources to understand concepts deeply, not to copy solutions.
 
 > **Academic Integrity Notice**  
 > All work submitted for assessment must be your own. This repository is for learning support only. Do not submit any code or notes from here directly as your own assessment work. Refer to [Murdoch University's Academic Integrity Policy](https://www.murdoch.edu.au/academicintegrity) for guidance.
@@ -34,7 +34,7 @@ ICT283-Study-Guide/
 
 | Resource | Description |
 |----------|-------------|
-| [cppreference.com — Containers](https://en.cppreference.com/w/cpp/container) | The definitive C++ STL containers reference. Covers `vector`, `list`, `stack`, `queue`, `map`, and more with full method documentation. |
+| [cppreference.com - Containers](https://en.cppreference.com/w/cpp/container) | The definitive C++ STL containers reference. Covers `vector`, `list`, `stack`, `queue`, `map`, and more with full method documentation. |
 | [LearnCpp.com](https://www.learncpp.com/) | Free, structured, chapter-by-chapter C++ guide. Great for revisiting fundamentals like pointers, classes, templates, and inheritance. |
 
 ### Visualisers & Interactive Tools
@@ -67,7 +67,7 @@ Each row includes:
 | Topics | Specific topics covered |
 | Key Concepts | Core ideas to understand |
 | Coding | Whether a C++ code answer is required (Yes/No) |
-| Confidence | Self-rated 0–10 — fill this in as you study |
+| Confidence | Self-rated 0–10 - fill this in as you study |
 | Notes | Personal notes and reminders |
 
 Use the **Confidence** column to identify your weak areas and prioritise study time accordingly.
